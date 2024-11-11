@@ -21,7 +21,7 @@ h1 {
 h2 {
   background-color: rgb(209, 225, 65);
 
-  color: blue;
+  color: inherit;
   padding: 10px 0;
   font-size: 25px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -32,7 +32,7 @@ h2 {
 p {
   background-color: rgb(65, 225, 92);
 
-  color: blue;
+  color: inherit;
   padding: 10px 0;
   font-size: 25px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
